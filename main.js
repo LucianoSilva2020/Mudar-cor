@@ -1,5 +1,5 @@
 function laranja() {
-    document.getElementById("mudarcor").src="img/laranja.jpg";
+    document.getElementById("mudarcor").src="img/salmão.jpg";
 }
 
 function rosa() {
