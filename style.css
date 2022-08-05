@@ -25,3 +25,11 @@ img {
     width: 100%;
     margin-bottom: 30px;
 }
+
+.rede {
+    display: flex;
+    margin: 10px;
+}
+.rede > p {
+    margin-right: 8px;
+}
